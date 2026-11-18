@@ -4981,7 +4981,7 @@ button,
     }
 
     .jlc-layanan-ahli-content h2 span {
-        font-size: inherit;
+        font-size: inherit !important;
     }
 
     .jlc-layanan-ahli-content > p {
