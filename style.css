@@ -1586,13 +1586,13 @@ button,
     }
 
     .jlc-ahliwaris-heading h2 {
-        font-size: 20px !important;
+        font-size: 24px !important;
         line-height: 1.45;
         margin-bottom: 15px;
     }
 
     .jlc-ahliwaris-heading h2 span {
-        font-size: 20px !important;
+        font-size: 24px !important;
         font-family: 'Georgia', serif !important;
         font-weight: 700;
     }
@@ -2344,7 +2344,7 @@ button,
     }
 
     .team-section-2-subtitle {
-        font-size: 13px;
+        font-size: 11px;
         letter-spacing: 2px;
     }
 
@@ -2358,8 +2358,7 @@ button,
     }
 
     .team-section-2-description {
-        font-size: 18px !important;
-        line-height: 1.8;
+        font-size: 16px !important;
     }
 
     .team-section-2-content {
@@ -2592,6 +2591,7 @@ button,
     .cta-section-2-button {
         width: 100%;
         justify-content: center;
+        font-size: 14px !important;
     }
 
     .cta-section-2-list-item {
@@ -3423,12 +3423,13 @@ button,
     }
 
     .jlc-perempuan-warisan-title {
-        font-size: 20px;
+        font-size: 24px !important;
         line-height: 1.4;
         margin-bottom: 16px;
     }
 
     .jlc-perempuan-warisan-title span {
+        font-size: 24px !important;
         font-size: inherit;
         font-weight: 700;
     }
@@ -3467,7 +3468,7 @@ button,
     }
 
     .jlc-perempuan-warisan-card h3 {
-        font-size: 18px !important;
+        font-size: 20px !important;
         font-weight: 900;
         line-height: 1.3;
         margin: 0;
@@ -4028,7 +4029,7 @@ button,
     }
 
     .jlc-services-heading h2 span {
-        font-size: 254x;
+        font-size: 24px !important;
     }
 
     .jlc-services-heading p {
@@ -4076,7 +4077,7 @@ button,
     }
 
     .jlc-services-title h3 {
-        font-size: 18px !important;
+        font-size: 20px !important;
         font-weight: 700;
     }
 
@@ -4125,7 +4126,7 @@ button,
     }
 
     .jlc-services-bottom-content h3 {
-        font-size: 18px !important;
+        font-size: 20px !important;
         font-weight: 700;
     }
 
@@ -4303,13 +4304,15 @@ button,
 
     .jlc-kepastian-container h2 {
         margin-bottom: 22px;
-        font-size: 25px;
+        font-size: 24px;
         line-height: 1.3;
     }
 
     .jlc-kepastian-container h2 span {
         margin-top: 5px;
-        font-size: inherit;
+         margin-bottom: 22px;
+        font-size: 24px;
+        line-height: 1.3;
     }
 
     .jlc-kepastian-description p {
@@ -4370,7 +4373,7 @@ button,
 .jlc-kapan-alt-aside h2 {
     margin: 0 0 25px;
     color: #ffffff;
-    font-family: Georgia, serif;
+    font-family: Georgia, serif !important;
     font-size: 32px;
     font-weight: 700;
     line-height: 1.25;
@@ -4379,7 +4382,7 @@ button,
 .jlc-kapan-alt-aside h2 span {
     display: inline;
     color: #d5ad61;
-    font-family: Georgia, serif;
+    font-family: Georgia, serif !important;
     font-size: inherit;
     font-weight: 700;
 }
@@ -4437,7 +4440,7 @@ button,
 .jlc-kapan-alt-content h3 {
     margin: 0 0 10px;
     color: #102544;
-    font-family: 'Cormorant Garamond', serif;
+    font-family: 'Cormorant Garamond', serif !important;
     font-size: 22px !important;
     font-weight: 700;
     line-height: 1.3;
@@ -4543,12 +4546,12 @@ button,
 
     .jlc-kapan-alt-aside h2 {
         margin-bottom: 18px;
-        font-size: 20px;
+        font-size: 24px !important;
         line-height: 1.3;
     }
 
     .jlc-kapan-alt-aside h2 span {
-        font-size: inherit;
+        font-size: 24px !important;
     }
 
     .jlc-kapan-alt-intro p {
@@ -4574,7 +4577,7 @@ button,
 
     .jlc-kapan-alt-content h3 {
         margin-bottom: 8px;
-        font-size: 18px;
+        font-size: 20px !important;
         font-weight: 900;
         line-height: 1.3;
     }
@@ -4755,12 +4758,12 @@ button,
 
     .jlc-mengapa-intro h2 {
         margin-bottom: 16px;
-        font-size: 20px;
+        font-size: 24px !important;
         line-height: 1.25;
     }
 
     .jlc-mengapa-intro h2 span {
-        font-size: inherit;
+        font-size: inherit !important;
     }
 
     .jlc-mengapa-intro p {
@@ -4865,7 +4868,7 @@ button,
 .jlc-layanan-ahli-content h2 {
     margin: 0 0 25px;
     color: #102544;
-    font-family: Georgia, serif;
+    font-family: Georgia, serif !important;
     font-size: 32px;
     font-weight: 700;
     line-height: 1.2;
@@ -4874,7 +4877,7 @@ button,
 .jlc-layanan-ahli-content h2 span {
     display: inline;
     color: #c18a2b;
-    font-family: Georgia, serif;
+    font-family: Georgia, serif !important;
     font-size: inherit;
     font-weight: 700;
 }
@@ -4976,12 +4979,12 @@ button,
 
     .jlc-layanan-ahli-content h2 {
         margin-bottom: 18px;
-        font-size: 20px;
+        font-size: 24px !important;
         line-height: 1.25;
     }
 
     .jlc-layanan-ahli-content h2 span {
-        font-size: inherit !important;
+        font-size: 24px !important;
     }
 
     .jlc-layanan-ahli-content > p {
@@ -5330,7 +5333,7 @@ button,
 .jlc-warisan-layanan-intro h2 {
     margin-bottom: 20px;
     color: #102544;
-    font-family: 'Georgia', serif;
+    font-family: 'Georgia', serif !important;
     font-size: 32px !important;
     font-weight: 700 !important;
     line-height: 1.35;
@@ -5339,7 +5342,7 @@ button,
 .jlc-warisan-layanan-intro h2 span {
     display: inline;
     color: #c18a2b;
-    font-family: 'Georgia', serif;
+    font-family: 'Georgia', serif !important;
     font-size: inherit;
     font-weight: 700;
 }
@@ -5479,13 +5482,13 @@ button,
     }
 
     .jlc-warisan-layanan-intro h2 {
-        font-size: 20px !important;
+        font-size: 24px !important;
         line-height: 1.45;
         margin-bottom: 17px;
     }
 
     .jlc-warisan-layanan-intro h2 span {
-        font-size: inherit;
+        font-size: 24px !important;
         font-weight: 700;
     }
 
@@ -5819,8 +5822,8 @@ button,
     }
 
     .jlc-faq-question {
-        font-size: 14px;
-        font-weight: 600;
+        font-size: 18px !important;
+        font-weight: 900;
     }
 
     .jlc-faq-toggle {
@@ -6552,6 +6555,11 @@ button,
 .gallery-heading h2 span {
     display: block;
     color: var(--secondary-dark);
+    font-family: 'Georgia', serif !important;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 1.13;
+    margin-bottom: 15px;
 }
 
 .gallery-heading p {
@@ -6700,7 +6708,11 @@ button,
 
 @media (max-width: 767px) {
     .gallery-heading h2 {
-        font-size: 24px;
+        font-size: 24px !important;
+    }
+
+    .gallery-heading h2 span{
+        font-size: 24px !important;
     }
     .jlc-gallery-section {
         padding: 65px 0;
