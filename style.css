@@ -2154,7 +2154,7 @@ button,
     max-width: 850px;
     margin: 0 auto;
     color: #4d596a;
-    font-size: 24px;
+    font-size: 16px;
     line-height: 1.8;
 }
 
@@ -3766,7 +3766,7 @@ button,
     margin: 0;
     color: #FFFFFF;
     font-family: 'Cormorant Garamond', serif;
-    font-size: 20px !important;
+    font-size: 24px !important;
     font-weight: 900;
     line-height: 1.35;
 }
@@ -3990,7 +3990,7 @@ button,
     }
 
     .jlc-services-title h3 {
-        font-size: 18px !important;
+        font-size: 20px !important;
     }
 
     .jlc-services-bottom {
@@ -4783,7 +4783,7 @@ button,
 
     .jlc-mengapa-content h3 {
         margin-bottom: 8px;
-        font-size: 18px;
+        font-size: 20px !important;
         font-weight: 900;
         line-height: 1.3;
     }
@@ -5518,7 +5518,7 @@ button,
 
     .jlc-warisan-layanan-section .jlc-warisan-layanan-card-heading h3 {
         font-family: 'Cormorant Garamond', serif;
-        font-size: 18px !important;
+        font-size: 20px !important;
         font-weight: 900 !important;
         line-height: 1.4 !important;
     }
